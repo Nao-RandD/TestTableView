@@ -16,6 +16,7 @@
 		9F708DE626A6331600C7C8CC /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F708DE526A6331600C7C8CC /* MenuViewController.swift */; };
 		9FA9B7C726C8B3AF00479722 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA9B7C626C8B3AF00479722 /* DetailViewController.swift */; };
 		9FA9B7C926C8DC7200479722 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA9B7C826C8DC7200479722 /* Product.swift */; };
+		9FA9B7CB26C9003E00479722 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA9B7CA26C9003E00479722 /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		9F708DE526A6331600C7C8CC /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		9FA9B7C626C8B3AF00479722 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		9FA9B7C826C8DC7200479722 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		9FA9B7CA26C9003E00479722 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				9F708DE526A6331600C7C8CC /* MenuViewController.swift */,
 				9FA9B7C626C8B3AF00479722 /* DetailViewController.swift */,
 				9FA9B7C826C8DC7200479722 /* Product.swift */,
+				9FA9B7CA26C9003E00479722 /* AddViewController.swift */,
 			);
 			path = TestTableView;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				9F6FE08026A4221500DC92C4 /* ViewController.swift in Sources */,
 				9F6FE07C26A4221500DC92C4 /* AppDelegate.swift in Sources */,
+				9FA9B7CB26C9003E00479722 /* AddViewController.swift in Sources */,
 				9FA9B7C726C8B3AF00479722 /* DetailViewController.swift in Sources */,
 				9F6FE07E26A4221500DC92C4 /* SceneDelegate.swift in Sources */,
 				9F708DE626A6331600C7C8CC /* MenuViewController.swift in Sources */,
